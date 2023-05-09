@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc16e987647df7243b992e0cc2fecf16, type: 3}
+  m_Name: SwordGold
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Sword Gold
+  <Description>k__BackingField: Memotong Musuh dan Mengalahkannya
+  <ItemImage>k__BackingField: {fileID: -103589768, guid: 25ade1effd3ed83459c0e8518579d5d5, type: 3}
+  <DefaultParameterList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: 0529ac82a2ca081499f1c42cb4dfa5a6, type: 2}
+    value: 100
+  prefab: {fileID: 7337883028221466892, guid: 27fc84798b9607a4fa8898ac52a6e13d, type: 3}
+  itemName: Sword Gold

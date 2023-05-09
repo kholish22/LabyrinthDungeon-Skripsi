@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de75f599b38be1542b45c72e6f68ac40, type: 3}
+  m_Name: HPPotion
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 99
+  <Name>k__BackingField: HP Potion
+  <Description>k__BackingField: Mengembalikan HP yang berkurang dengan meminumnya
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: a7824eada969a6a4586b864d333c4087, type: 3}
+  <DefaultParameterList>k__BackingField: []
+  modifierData:
+  - statModifier: {fileID: 11400000, guid: 5e4a82f6f6f0a7849a8d27684da261fc, type: 2}
+    value: 10
